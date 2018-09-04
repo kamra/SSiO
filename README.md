@@ -1,2 +1,3 @@
 # SSiO
-SSiO Project
+SSiO: Sociaetal Development Through Secure IoT amd Open Data 
+
