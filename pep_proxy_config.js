@@ -12,13 +12,13 @@ config.https = {
 };
 
 config.idm = {
-        host: 'localhost',
+        host: 'x',
         port: 3443,
         ssl: true
 }
 
 config.app = {
-        host: '18.197.199.85', //URL or IP address of Context Broker (Orion)
+        host: 'x.x.x.x', //URL or IP address of Context Broker (Orion)
         port: '1026',
         ssl: false // Use true if the app server listens in https
 }
