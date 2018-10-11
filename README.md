@@ -12,4 +12,4 @@ The first two years the project will focus on building a platform, and the last 
 # The longterm goal
 As a result of the project the region will have good opportunities to create smartness in products and services that are created. A vision is that everything produced in the region has some sort of ”smartness” (such as Internet of Things). Possibilities to both produce as well as consume information is made possible in both urban and rural areas. The goal is to make the region a leading Smart Region.
 
-As part of this project, a SenseSmartRegion Platfom was developed. The SSRP enables IoT data collection, storage, and retrieval. This enables the stakeholders such as municipalities and industries to leverage this patform in a standardized manner. 
+As part of this project, a SenseSmartRegion Platfom was developed. The SSRP enables IoT data collection, storage, and retrieval. This enables the stakeholders such as municipalities and industries to leverage this patform in a standardized manner. Please visit the Wiki to get technical details about the platform.
