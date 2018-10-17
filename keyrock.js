@@ -1,3 +1,5 @@
+var config = {};
+
 config.host = 'http://localhost:3000';
 config.port = 3000
 
